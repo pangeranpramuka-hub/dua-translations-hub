@@ -3,6 +3,13 @@
   "last_updated": "2024-05-22",
   "languages": [
     {
+      "code": "id",
+      "name": "Bahasa Indonesia",
+      "version": 1,
+      "url": "https://raw.githubusercontent.com/pangeranpramuka-hub/dua-translations-hub/main/lang/id.json",
+      "is_rtl": false
+    },
+    {
       "code": "en",
       "name": "English",
       "version": 1,
@@ -10,10 +17,52 @@
       "is_rtl": false
     },
     {
+      "code": "ms",
+      "name": "Bahasa Melayu (Malaysia)",
+      "version": 1,
+      "url": "https://raw.githubusercontent.com/pangeranpramuka-hub/dua-translations-hub/main/lang/ms.json",
+      "is_rtl": false
+    },
+    {
       "code": "fr",
       "name": "Français",
       "version": 1,
       "url": "https://raw.githubusercontent.com/pangeranpramuka-hub/dua-translations-hub/main/lang/fr.json",
+      "is_rtl": false
+    },
+    {
+      "code": "tr",
+      "name": "Türkçe",
+      "version": 1,
+      "url": "https://raw.githubusercontent.com/pangeranpramuka-hub/dua-translations-hub/main/lang/tr.json",
+      "is_rtl": false
+    },
+    {
+      "code": "ur",
+      "name": "اردو (Urdu)",
+      "version": 1,
+      "url": "https://raw.githubusercontent.com/pangeranpramuka-hub/dua-translations-hub/main/lang/ur.json",
+      "is_rtl": true
+    },
+    {
+      "code": "es",
+      "name": "Español",
+      "version": 1,
+      "url": "https://raw.githubusercontent.com/pangeranpramuka-hub/dua-translations-hub/main/lang/es.json",
+      "is_rtl": false
+    },
+    {
+      "code": "ru",
+      "name": "Русский",
+      "version": 1,
+      "url": "https://raw.githubusercontent.com/pangeranpramuka-hub/dua-translations-hub/main/lang/ru.json",
+      "is_rtl": false
+    },
+    {
+      "code": "bn",
+      "name": "বাংলা (Bengali)",
+      "version": 1,
+      "url": "https://raw.githubusercontent.com/pangeranpramuka-hub/dua-translations-hub/main/lang/bn.json",
       "is_rtl": false
     }
   ]
